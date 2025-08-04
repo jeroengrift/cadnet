@@ -52,7 +52,7 @@ leveraging deep learning and remote sensing technologies.
 
 ## Model
 ![CadNet Architecture](figures/CadNet_IGARSS.png)
-Figure 1: CadNet architecture.
+Figure 1: CadNet architecture (updated).
 
 ## Prepare Dataset
 The imagery and corresponding reference data used in this study are publicly available in the CadastreVision repository:
