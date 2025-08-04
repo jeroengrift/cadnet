@@ -1,0 +1,10 @@
+DATASETS:
+  DATA_DIR: '/home/griftj/phd/data/cad_aerial_8_sub_test'
+  PATCHES_DIR: 'patches_25'
+  IMAGES_DIR: 'images'
+  IMG_SIZE: 512
+  CREATE_PATCHES: True
+  DOWNSAMPLE_FACTOR: 1.
+
+MODEL:
+  TEST_OVERLAP_50 : False
